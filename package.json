@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-search": "^1.9.9",
+    "vitepress": "latest"
+  }
+}
