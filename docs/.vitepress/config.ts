@@ -65,7 +65,9 @@ function showCodeConverter() {
 			collapsed: false,
 			items: [
 				{ text: 'What is AICodeConverter', link: '/code-converter/what-is-aicodeconverter' },
-				{ text: 'How to use AICodeConverter', link: '/code-converter/how-to-use-aicodeconverter' }
+				{ text: 'How to use AICodeConverter', link: '/code-converter/how-to-use-aicodeconverter' },
+				{ text: 'What is AICodeReviewer', link: '/code-converter/waht-is-aicodereviewer' },
+				{ text: 'What is AICodeExplanner', link: '/code-converter/what-is-aicodeexplanner' }
 			]
 		}
 	]
