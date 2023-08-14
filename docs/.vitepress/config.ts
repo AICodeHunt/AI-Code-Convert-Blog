@@ -19,6 +19,8 @@ export default defineConfig({
 		`],
 		// Google Analytics
 		['script', { async: 'true', src: 'https://www.googletagmanager.com/gtag/js?id=G-Q03Q3VY7RV' }],
+		// Google ads prepare
+		['script', { async: 'true', crossorigin: 'anonymous', src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3672455877501055' }],
 		['script', {}, `
 		    window.dataLayer = window.dataLayer || [];
 		    function gtag(){dataLayer.push(arguments);}
